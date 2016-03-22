@@ -1,0 +1,5 @@
+This is a program to calculate BMI.
+The dependence of each program are written in "Makefile".
+One can type in "make" to compile and run the program.
+
+The excutive program is called "lab2".
